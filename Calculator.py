@@ -11,6 +11,9 @@ if __name__ == "__main__" :
     temCalc = Calc()
     returnVal = temCalc.sum(5,7)
     print("returnVal===>"+str(returnVal))
+<<<<<<< HEAD
     print("returnVal===>"+str(returnVal))
     print("returnVal===>"+str(returnVal))
     
+=======
+>>>>>>> 46d1cff63fbab78d08ad57a80e5baa0d766a7ade
